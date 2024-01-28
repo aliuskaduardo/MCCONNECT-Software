@@ -2,7 +2,10 @@
 MCCONNET: Markov Chains Connectivity Invariants for Networks
 
 # MACCONNECT About
-MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially a MARCH-INSIDE algorithm based software. MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially focus on the study/quantification of the dynamics changes in local/overall network structure after multiple types of attacks (connections/nodes removal) in biological, social, economical, political, or legal networks. Attacks are understood as different strategies/ways to remove nodes/links from the network an later using MI invariants to quantify changes in network structure. MCCONNECT is a software developed by C.R. Muteanu (algorithm and software design, software programing, and author of papers, https://github.com/muntisa/), H. González-Díaz (algorithm and software design, and author of papers, https://github.com/glezdiazh), and A. Duardo-Sánches (consulting on intellectual property issues and co-author of papers for social and legal networks analysis, https://github.com/aliuskaduardo). 
+MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially a MARCH-INSIDE algorithm based software. MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially focus on the study/quantification of the dynamics changes in local/overall network structure after multiple types of attacks (connections/nodes removal) in biological, social, economical, political, or legal networks. Attacks are understood as different strategies/ways to remove nodes/links from the network an later using MI invariants to quantify changes in network structure.
+
+# Authors Contributions:
+MCCONNECT is a software developed by C.R. Muteanu (algorithm and software design, software programing, and author of papers, https://github.com/muntisa/), H. González-Díaz (algorithm and software design, and author of papers, https://github.com/glezdiazh), and A. Duardo-Sánchez (consulting on intellectual property issues and co-author of papers for social and legal networks analysis, https://github.com/aliuskaduardo). 
 
 # Algorithm origin:
 
