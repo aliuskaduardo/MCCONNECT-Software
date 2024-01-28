@@ -1,10 +1,8 @@
 # MCCONNECT-Software
 MCCONNET: Markov Chains Connectivity Invariants for Networks
 
-# MINODES
-MINODES: MARCH-INSIDE for Network Nodes
-
-MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially a MARCH-INSIDE algorithm based software. MCCONNET focus on the study/quantification of the changes in network local and overall network structure after multiple types of attacks. Attacks are understood as different strategies/ways to remove nodes from the network an later using MI invariants to quantify changes in network structure. MCCONNECT is a software developed by C.R. Muteanu (algorithm and software design, software programing, and author of papers, https://github.com/muntisa/), H. González-Díaz (algorithm and software design, and author of papers, https://github.com/glezdiazh), and A. Duardo-Sánches (consulting on intellectual property issues and co-author of papers for social and legal networks analysis, https://github.com/aliuskaduardo). 
+# MACCONNECT About
+MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially a MARCH-INSIDE algorithm based software. MCCONNECT: Markov Chains Connectivity Invariants for Networks is essentially focus on the study/quantification of the dynamics changes in local/overall network structure after multiple types of attacks (connections/nodes removal) in biological, social, economical, political, or legal networks. Attacks are understood as different strategies/ways to remove nodes/links from the network an later using MI invariants to quantify changes in network structure. MCCONNECT is a software developed by C.R. Muteanu (algorithm and software design, software programing, and author of papers, https://github.com/muntisa/), H. González-Díaz (algorithm and software design, and author of papers, https://github.com/glezdiazh), and A. Duardo-Sánches (consulting on intellectual property issues and co-author of papers for social and legal networks analysis, https://github.com/aliuskaduardo). 
 
 # Algorithm origin:
 
@@ -25,9 +23,6 @@ A. Duardo-Sánches (assistance with intellectual proprty issues and co-author of
 # MCCONNECT Applications: 
 
 MCCONNECT parameters can be used to study the Markov Chain stochastic behaviour of graph or network-like systems to the quantify the dynamic variations/changes in the structure of complex biomo-lecular systems as well as social, political, economical, or legal networks.
-
-# MCONNECT Registry
-
 
 # See references:
 
